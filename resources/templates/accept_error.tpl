@@ -1,0 +1,1 @@
+{{errorMsg}}<input type='button' value='{{acceptErrorSauce}}' id='acceptError' />

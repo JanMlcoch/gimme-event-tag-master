@@ -1,0 +1,36 @@
+.supertag{
+  background-color:lightgreen;
+}
+.table{
+  /*width:300px;*/
+}
+.tablehead span{
+  min-width:200px;
+}
+.table div{
+  height:20px;
+}
+.tablehead{
+  background-color:yellow;
+  height:60px;
+}
+.tag_name_field{
+  width:200px;
+  text-align:right;
+  float:left;
+}
+.tag_likes_field{
+  width:30px;
+  text-align:center;
+    float:left;
+}
+.controls{
+  width:400px;
+    float:left;
+}
+.child{
+  color:grey;
+}
+.child .tag_name_field{
+   width:220px;
+}

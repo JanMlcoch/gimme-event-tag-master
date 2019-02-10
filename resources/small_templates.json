@@ -1,0 +1,7 @@
+{
+  "loginName": "<span class='loginName'></span>",
+  "buttonToOverview":"<input type='button' value='{{buttonToOverviewSauce}}' id='toOverview'/>",
+  "buttonToHome": "<input type='button' value='{{buttonToHomeSauce}}' id='toHome'/>",
+  "acceptError": "<input type='button' value='{{acceptErrorSauce}}' id='acceptError'/>",
+  "buttonLogout": "<input type='button' value='{{logoutSauce}}' class='logout' disabled='true' />"
+}

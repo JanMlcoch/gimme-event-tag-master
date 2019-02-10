@@ -1,0 +1,39 @@
+{
+  "tags": [
+    {
+      "id": 1,
+      "name": "Thilisar",
+      "type": 4
+    },
+    {
+      "id": 6,
+      "name": "práce",
+      "type": 5
+    },
+    {
+      "id": 7,
+      "name": "pivo",
+      "type": 5
+    }
+  ],
+  "relas":[
+    {
+      "id": 5,
+      "from": 1,
+      "to": 6,
+      "str": 0.3
+    },
+    {
+      "id": 4,
+      "from": 1,
+      "to": 7,
+      "str": 1
+    },
+    {
+      "id": 11,
+      "from": 7,
+      "to": 1,
+      "str": 0.7
+    }
+  ]
+}

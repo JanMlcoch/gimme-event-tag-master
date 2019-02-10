@@ -1,0 +1,9 @@
+[
+  {"id":0,"tags":[],"name":"Taliesin","login":"taliesin","pass":"aaa","permis":[10,13,12,11]},
+  {"id":1,"tags":[],"name":"Ringael","login":"ringael","pass":"aaa","permis":[10,13,12,11]},
+  {"id":2,"tags":[],"name":"Crat","login":"crat","pass":"aaa","permis":[10,13,12,11]},
+  {"id":3,"tags":[],"name":"Radar","login":"radar","pass":"aaa","permis":[10,13]},
+  {"id":4,"tags":[],"name":"Aeorin","login":"aeorin","pass":"aaa","permis":[10,13,12]},
+  {"id":5,"tags":[],"name":"Tanach","login":"tanach","pass":"aaa","permis":[10,13]},
+  {"id":6,"tags":[],"name":"Pája","login":"paja","pass":"aaa","permis":[10,13,12]}
+]

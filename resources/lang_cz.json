@@ -1,0 +1,129 @@
+{
+  "tagTypes":[
+    {"value": 1, "label": "Synonymum"},
+    {"value": 2, "label": "Uživatelský"},
+    {"value": 3, "label": "Složený"},
+    {"value": 4, "label": "Specifický"},
+    {"value": 5, "label": "Základní"}
+  ],
+  "addTag":{
+    "header": "Přidat tag",
+    "name": "Název",
+    "type": "Type",
+    "add": "Přidat"
+  },
+  "login": {
+    "loginTitle": "Nejste úspěšně přihlášeni",
+    "loginText": "Přihlašovací jméno",
+    "passText": "Heslo",
+    "submitText": "Odeslat"
+  },
+  "wait": {
+    "waitForServer": "Prosím sečkejte na odpověď serveru. Pokud toto trvá déle než několik vteřin, obnovte stránku."
+  },
+  "acceptError": {
+    "acceptErrorSauce": "Beru na vědomí!"
+  },
+  "defaultMenu": {
+    "buttonToHomeSauce": "Domů",
+    "buttonToOverviewSauce": "Přehled Tagů",
+    "addTagSauce": "Vytvořit tag",
+    "backSauce": "Zpět (v navigaci)",
+    "loginSauce": "Jste přihlášen jako ",
+    "logoutSauce": "Odhlásit",
+    "relogSauce": "Změnit uživatele",
+    "editProfile": "Upravit profil",
+    "exportJson": "Exportuj JSON"
+  },
+  "errors": {
+    "lostInNavigation": "Ztratili jste se po cestě"
+  },
+  "welcome": {
+    "welcomeSauce": "Vítejte v TagMastru!"
+  },
+  "overview": {
+    "viewTagSauce": "Zobraz Tag",
+    "name": "Název Tagu",
+    "id": "id",
+    "type": "typ",
+    "addFilter": "Přidej fitry"
+  },
+  "viewTag": {
+    "tagIdSauce": "Id Tagu",
+    "tagNameSauce": "Jméno Tagu",
+    "tagTypeSauce": "Typ Tagu",
+    "relationsFromSauce": "Relations z tohoto Tagu",
+    "relationsToSauce": "Relations do tohoto Tagu",
+    "relationStrengthSauce": "Síla vazby",
+    "relationIdSauce": "Id",
+    "editTagSauce": "Uprav Tag"
+  },
+  "editTag": {
+    "tagIdSauce": "Id Tagu",
+    "tagNameSauce": "Jméno Tagu",
+    "tagTypeSauce": "Typ Tagu",
+    "relationsFromSauce": "Relations z tohoto Tagu",
+    "relationsToSauce": "Relations do tohoto Tagu",
+    "relationStrengthSauce": "Síla vazby",
+    "relationIdSauce": "Id",
+    "editTagSauce": "Uprav Tag",
+    "addRelationSauce": "Další relation",
+    "ChangeTagTypeSauce": "Změn typ Tagu",
+    "submitChangesToTagSauce": "Uložit Změny",
+    "to": "na",
+    "typ5": "Základní Tag",
+    "typ4": "Specifický Tag",
+    "typ3": "Složený Tag",
+    "typ2": "Uživatelský Tag",
+    "typ1": "Synonymum",
+    "noValidTarget": "Některé z relací neměly žádné platné konfigurace a proto byly odebrány.",
+    "tooManySynTargets": "Toto synonymum má příliš mnoho cílů",
+    "notEnoughSynTargets": "Toto synonymum nemá cíl"
+  },
+  "relationTableRow": {
+    "restore": "Restore",
+    "remove": "Znehodnoť",
+    "tbd": "Zatím neznámé",
+    "typ5": "Základní Tag",
+    "typ4": "Specifický Tag",
+    "typ3": "Složený Tag",
+    "typ2": "Uživatelský Tag",
+    "typ1": "Synonymum"
+},
+  "filters":{
+    "submit": "Aktivovat filtry",
+    "subStringSauce": "Zadejte podřetězec názvu",
+    "typ5": "Základní Tag",
+    "typ4": "Specifický Tag",
+    "typ3": "Složený Tag",
+    "typ2": "Uživatelský Tag",
+    "typ1": "Synonymum"
+  },
+  "SSTag": {
+
+  },
+  "SmartOptionList":{
+
+  },
+  "invalidRelation":"Tato relace není validní",
+  "coreSauce": "Základní Tag",
+  "loginName": "<span class='loginName'></span>",
+  "notReadySauce": "Tato funkcionalita ještě nebyla implementována",
+  "concreteSauce": "Specifický Tag",
+  "compositeSauce": "Složený Tag",
+  "commonSauce": "Uživatelský Tag",
+  "comparableSauce": "Synonymum",
+  "typ5": "Základní Tag",
+  "typ4": "Specifický Tag",
+  "typ3": "Složený Tag",
+  "typ2": "Uživatelský Tag",
+  "typ1": "Synonymum",
+  "chooseTagTypeSauce": "Vyberte typ Tagu",
+  "chooseSynonymTargetSauce": "Vyberte cíl synonyma",
+  "tagName": "Jméno tagu",
+  "compoCompoRedirSauce": "Odkaz na kompozitní tag bude nahrazen odkazy na příslušné tagy vyšší úrovně",
+  "chooseCompositeTargetSauce": "Vyberte součást tagu",
+  "relTarget": "Cíl relace",
+  "willBe": "bude",
+  "moreStatesError": "Nacházíte se ve více stavech najednou. Pokud se Vám nedaří z tohoto stavu Vámi dostupnými prostředky, tak máte smůlu :( Každých 24 hodin probíhá automatické odhlašování ze serveru, potom zkuste použít aplikaci znovu."
+}

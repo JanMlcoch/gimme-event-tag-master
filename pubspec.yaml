@@ -1,0 +1,20 @@
+name: tag_master
+version: 0.0.1
+description: Application for managing tags.
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  browser: any
+  dart_ext: any
+  mustache4dart: any
+  path: any
+  shelf: any
+  shelf_auth: any
+  shelf_route: any
+  shelf_simple_session: any
+  shelf_static: any
+  mustache_no_mirror: any
+  unittest: any
+  crypto: any
+  postgresql: "^0.3.1+1"
+

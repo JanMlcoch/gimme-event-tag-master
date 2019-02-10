@@ -1,0 +1,13 @@
+.buildlog
+.DS_Store
+.settings/
+.idea
+.pub/
+**/data/*_new.json
+build/
+nginx/logs
+packages
+pubspec.lock
+/.packages
+
+
